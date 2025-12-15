@@ -262,7 +262,7 @@ export default function ChatPage({ compact = false }) {
     }
 
     // FOOTER
-    roadmapText += `\nTerus belajar untuk unlock modul berikutnya!💪`;
+    roadmapText += `\nTerus belajar untuk unlock modul berikutnya!`;
 
     setMessages((m) => {
       const newMessages = [...m];
