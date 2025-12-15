@@ -1,0 +1,15 @@
+{
+  "name": "learning-buddy-root",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "powershell -NoProfile -ExecutionPolicy Bypass -File ./dev.ps1",
+    "clean": "powershell -NoProfile -Command \"Set-Location ./frontend; if (Test-Path node_modules) { Remove-Item -Recurse -Force node_modules }; if (Test-Path .\\package-lock.json) { Remove-Item -Force .\\package-lock.json }\"",
+    "clean:hard": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"Set-Location ./frontend; Get-Process node -ErrorAction SilentlyContinue | Stop-Process -Force; Start-Sleep -Seconds 1; if (Test-Path node_modules) { attrib -r -h -s /S /D node_modules\\* 2>$null; Remove-Item -Recurse -Force node_modules }; if (Test-Path .\\package-lock.json) { Remove-Item -Force .\\package-lock.json }\"",
+    "setup": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"Set-Location ./frontend; npm install\"",
+    "reset": "npm run clean:hard && npm run setup && npm run dev"
+  },
+  "dependencies": {
+    "lucide-react": "^0.556.0"
+  }
+}

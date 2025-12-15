@@ -1,0 +1,55 @@
+from __future__ import annotations
+
+import os
+from typing import Dict, Any, Optional
+import httpx
+
+
+SUPABASE_URL = os.getenv(
+    "SUPABASE_REST_URL",
+    "https://jrkqcbmjknzgpbtrupxh.supabase.co/rest/v1",
+)
+SUPABASE_KEY = os.getenv(
+    "SUPABASE_ANON_KEY",
+    "sb_publishable_h889CjrPIGwCMA9I4oTTaA_2L22Y__R",
+)
+
+
+def _headers() -> Dict[str, str]:
+    return {
+        "apikey": SUPABASE_KEY,
+        "Authorization": f"Bearer {SUPABASE_KEY}",
+        "Accept": "application/json",
+    }
+
+
+def _build_params(params: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+    q = {"select": "*"}
+    if params:
+        q.update(params)
+    return q
+
+
+def get_table(table: str, params: Optional[Dict[str, Any]] = None):
+    url = f"{SUPABASE_URL}/{table}"
+    with httpx.Client(timeout=15) as client:
+        r = client.get(url, headers=_headers(), params=_build_params(params))
+        r.raise_for_status()
+        return r.json()
+
+
+def get_courses(params: Optional[Dict[str, Any]] = None):
+    return get_table("courses", params)
+
+
+def get_learning_paths(params: Optional[Dict[str, Any]] = None):
+    return get_table("learning_paths", params)
+
+
+def get_course_levels(params: Optional[Dict[str, Any]] = None):
+    return get_table("course_levels", params)
+
+
+def get_tutorials(params: Optional[Dict[str, Any]] = None):
+    return get_table("tutorials", params)
+

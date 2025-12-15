@@ -1,0 +1,930 @@
+{
+  "resources": [
+    {
+      "title": "HTML Crash Course For Absolute Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+      "skill": ["HTML"]
+    },
+    {
+      "title": "MDN HTML Docs",
+      "type": "Web",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "skill": ["HTML"]
+    },
+    {
+      "title": "CSS Crash Course For Absolute Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=yfoY53QXEnI",
+      "skill": ["CSS"]
+    },
+    {
+      "title": "CSS MDN Docs",
+      "type": "Web",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "skill": ["CSS"]
+    },
+    {
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+      "skill": ["JavaScript"]
+    },
+    {
+      "title": "React Tutorial for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "skill": ["React", "JavaScript"]
+    },
+    {
+      "title": "React Official Docs",
+      "type": "Web",
+      "url": "https://react.dev",
+      "skill": ["React", "JavaScript"]
+    },
+    {
+      "title": "TailwindCSS Docs",
+      "type": "Web",
+      "url": "https://tailwindcss.com/docs",
+      "skill": ["TailwindCSS", "CSS"]
+    },
+    {
+      "title": "Git Documentation",
+      "type": "Web",
+      "url": "https://git-scm.com/docs",
+      "skill": ["Git"]
+    },
+    {
+      "title": "SESI 7 - Javascript Backend (Node JS) Untuk Pemula",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=kLUI9LISP5k",
+      "skill": ["Node.js", "JavaScript"]
+    },
+    {
+      "title": "Dicoding Dev Coaching #86 : Back-End | Membuat HTTP Server dengan Node.js",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=GaWlgj6QrP8",
+      "skill": ["Node.js", "JavaScript"]
+    },
+    {
+      "title": "Tutorial Spring Boot Dasar (Bahasa Indonesia)",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=VM3rwdMBORY",
+      "skill": ["Java", "Spring Boot"]
+    },
+    {
+      "title": "Alur Belajar Jadi Backend Secara Otodidak Untuk Pemula Versi Dea Afrizal",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=cJZ3N5Q-Cp4",
+      "skill": ["Node.js", "Spring Boot", "JavaScript", "Java"]
+    },
+    {
+      "title": "Checkpoint Jadi Fullstack Web Developer Untuk Pemula",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=skXQdq_BMkI",
+      "skill": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+    },
+    {
+      "title": "Machine Learning Crash Course",
+      "type": "Web",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "skill": ["Python"]
+    },
+    {
+      "title": "LangChain Tutorials",
+      "type": "Web",
+      "url": "https://python.langchain.com/docs/get_started",
+      "skill": ["LangChain", "Python"]
+    },
+    {
+      "title": "RAG From Scratch - Pinecone Academy",
+      "type": "Web",
+      "url": "https://www.pinecone.io/learn/series/rag/",
+      "skill": ["Vector Database"]
+    },
+    {
+      "title": "Menggunakan OpenAI API dengan React (Tutorial OpenAI API untuk Pemula)",
+      "type": "Video",
+      "url": "https://youtu.be/_tYuhnlw7OU?si=KQYem3akkhD6MKlB",
+      "skill": ["OpenAI API", "React", "JavaScript"]
+    },
+    {
+      "title": "Data Analytics For Beginners | Introduction To Data Analytics | Data Analytics Using R | Simplilearn",
+      "type": "Video",
+      "url": "https://youtu.be/zwasdVPPFFw?si=pTDSAoHfINPhPXnU",
+      "skill": ["R"]
+    },
+    {
+      "title": "Belajar Excel untuk Data Analyst",
+      "type": "Video",
+      "url": "https://youtu.be/NHTiqfvEsq8?si=tIDKwGxbLYWXBwVu",
+      "skill": ["Excel"]
+    },
+    {
+      "title": "SQL Tutorial - Full Database Course for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+      "skill": ["SQL"]
+    },
+    {
+      "title": "Python Plotting Tutorial w/ Matplotlib & Pandas",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=0P7QnIQDBJY",
+      "skill": ["Matplotlib", "Seaborn", "Python"]
+    },
+    {
+      "title": "Dart Language Tour (Official)",
+      "type": "Web",
+      "url": "https://dart.dev/language",
+      "skill": ["Dart"]
+    },
+    {
+      "title": "Flutter SDK Documentation (Official)",
+      "type": "Web",
+      "url": "https://docs.flutter.dev",
+      "skill": ["Flutter SDK"]
+    },
+    {
+      "title": "Flutter Widget Catalog",
+      "type": "Web",
+      "url": "https://docs.flutter.dev/ui/widgets",
+      "skill": ["Flutter Widgets"]
+    },
+    {
+      "title": "Flutter Provider State Management Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=O71rYKqRv2A",
+      "skill": ["Provider"]
+    },
+    {
+      "title": "Riverpod Official Documentation",
+      "type": "Web",
+      "url": "https://riverpod.dev/docs",
+      "skill": ["Riverpod"]
+    },
+    {
+      "title": "Bloc State Management - Official Documentation",
+      "type": "Web",
+      "url": "https://bloclibrary.dev/#/",
+      "skill": ["Bloc"]
+    },
+    {
+      "title": "Dart HTTP Package Documentation",
+      "type": "Web",
+      "url": "https://pub.dev/packages/http",
+      "skill": ["HTTP"]
+    },
+    {
+      "title": "Dio Networking Library Documentation",
+      "type": "Web",
+      "url": "https://pub.dev/packages/dio",
+      "skill": ["Dio"]
+    },
+    {
+      "title": "SQFlite Local Database Tutorial",
+      "type": "Web",
+      "url": "https://pub.dev/packages/sqflite",
+      "skill": ["SQFlite"]
+    },
+    {
+      "title": "FlutterFire - Firebase Authentication",
+      "type": "Web",
+      "url": "https://firebase.flutter.dev/docs/auth/overview",
+      "skill": ["Firebase Auth"]
+    },
+    {
+      "title": "FlutterFire - Cloud Firestore",
+      "type": "Web",
+      "url": "https://firebase.flutter.dev/docs/firestore/usage",
+      "skill": ["Firebase Firestore"]
+    },
+    {
+      "title": "FlutterFire - Firebase Cloud Messaging (FCM)",
+      "type": "Web",
+      "url": "https://firebase.flutter.dev/docs/messaging/usage",
+      "skill": ["Firebase Cloud Messaging"]
+    },
+    {
+      "title": "MLflow Documentation",
+      "type": "Web",
+      "url": "https://mlflow.org/docs/latest/index.html",
+      "skill": ["MLflow"]
+    },
+    {
+      "title": "TensorFlow Extended (TFX) Official",
+      "type": "Web",
+      "url": "https://www.tensorflow.org/tfx",
+      "skill": ["TensorFlow Extended"]
+    },
+    {
+      "title": "Kubeflow Official Documentation",
+      "type": "Web",
+      "url": "https://www.kubeflow.org/docs/",
+      "skill": ["Kubeflow"]
+    },
+    {
+      "title": "Google Cloud AI Platform Documentation",
+      "type": "Web",
+      "url": "https://cloud.google.com/ai-platform/docs",
+      "skill": ["Google Cloud AI Platform"]
+    },
+    {
+      "title": "AWS SageMaker Documentation",
+      "type": "Web",
+      "url": "https://docs.aws.amazon.com/sagemaker/",
+      "skill": ["AWS SageMaker"]
+    },
+    {
+      "title": "Kotlin Official Documentation",
+      "type": "Web",
+      "url": "https://kotlinlang.org/docs/home.html",
+      "skill": ["Kotlin"]
+    },
+    {
+      "title": "Java Official Documentation",
+      "type": "Web",
+      "url": "https://docs.oracle.com/en/java/",
+      "skill": ["Java"]
+    },
+    {
+      "title": "Android XML Layouts Guide",
+      "type": "Web",
+      "url": "https://developer.android.com/guide/topics/ui/declaring-layout",
+      "skill": ["XML"]
+    },
+    {
+      "title": "Jetpack Compose Documentation",
+      "type": "Web",
+      "url": "https://developer.android.com/jetpack/compose",
+      "skill": ["Jetpack Compose"]
+    },
+    {
+      "title": "Android Jetpack Documentation",
+      "type": "Web",
+      "url": "https://developer.android.com/jetpack",
+      "skill": ["Android Jetpack"]
+    },
+    {
+      "title": "OkHttp Official Documentation",
+      "type": "Web",
+      "url": "https://square.github.io/okhttp/",
+      "skill": ["OkHttp"]
+    },
+    {
+      "title": "Room Database Documentation",
+      "type": "Web",
+      "url": "https://developer.android.com/training/data-storage/room",
+      "skill": ["Room"]
+    },
+    {
+      "title": "Hilt Dependency Injection Documentation",
+      "type": "Web",
+      "url": "https://developer.android.com/training/dependency-injection/hilt-android",
+      "skill": ["Hilt"]
+    },
+    {
+      "title": "Kotlin Coroutines Guide",
+      "type": "Web",
+      "url": "https://kotlinlang.org/docs/coroutines-overview.html",
+      "skill": ["Coroutines"]
+    },
+    {
+      "title": "Kotlin Flow Guide",
+      "type": "Web",
+      "url": "https://kotlinlang.org/docs/flow.html",
+      "skill": ["Flow"]
+    },
+    {
+      "title": "JavaScript MDN Docs",
+      "type": "Web",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "skill": ["JavaScript"]
+    },
+    {
+      "title": "Node.js Official Documentation",
+      "type": "Web",
+      "url": "https://nodejs.org/en/docs",
+      "skill": ["Node.js"]
+    },
+    {
+      "title": "Express.js Guide",
+      "type": "Web",
+      "url": "https://expressjs.com/",
+      "skill": ["Express.js"]
+    },
+    {
+      "title": "Prisma ORM Documentation",
+      "type": "Web",
+      "url": "https://www.prisma.io/docs",
+      "skill": ["Prisma"]
+    },
+    {
+      "title": "Docker Official Documentation",
+      "type": "Web",
+      "url": "https://docs.docker.com/",
+      "skill": ["Docker"]
+    },
+    {
+      "title": "Kubernetes Official Documentation",
+      "type": "Web",
+      "url": "https://kubernetes.io/docs/home/",
+      "skill": ["Kubernetes"]
+    },
+    {
+      "title": "Apache Airflow Documentation",
+      "type": "Web",
+      "url": "https://airflow.apache.org/docs/",
+      "skill": ["Airflow"]
+    },
+    {
+      "title": "Python Official Tutorial",
+      "type": "Web",
+      "url": "https://docs.python.org/3/tutorial/",
+      "skill": ["Python"]
+    },
+    {
+      "title": "Flask Official Documentation",
+      "type": "Web",
+      "url": "https://flask.palletsprojects.com/",
+      "skill": ["Flask"]
+    },
+    {
+      "title": "FastAPI Official Documentation",
+      "type": "Web",
+      "url": "https://fastapi.tiangolo.com/",
+      "skill": ["FastAPI"]
+    },
+    {
+      "title": "Django Official Documentation",
+      "type": "Web",
+      "url": "https://docs.djangoproject.com/en/stable/",
+      "skill": ["Django"]
+    },
+    {
+      "title": "SQLAlchemy Documentation",
+      "type": "Web",
+      "url": "https://docs.sqlalchemy.org/",
+      "skill": ["SQLAlchemy"]
+    },
+    {
+      "title": "PostgreSQL Official Documentation",
+      "type": "Web",
+      "url": "https://www.postgresql.org/docs/",
+      "skill": ["PostgreSQL"]
+    },
+    {
+      "title": "Redis Official Documentation",
+      "type": "Web",
+      "url": "https://redis.io/docs/latest/",
+      "skill": ["Redis"]
+    },
+    {
+      "title": "NumPy Official Documentation",
+      "type": "Web",
+      "url": "https://numpy.org/doc/",
+      "skill": ["NumPy"]
+    },
+    {
+      "title": "Seaborn Tutorial for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=6GUZXDef2U0",
+      "skill": ["Seaborn"]
+    },
+    {
+      "title": "Scikit-Learn Documentation",
+      "type": "Web",
+      "url": "https://scikit-learn.org/stable/",
+      "skill": ["Scikit-Learn"]
+    },
+    {
+      "title": "Prefect Documentation",
+      "type": "Web",
+      "url": "https://docs.prefect.io/",
+      "skill": ["Prefect"]
+    },
+    {
+      "title": "TensorFlow Serving Guide",
+      "type": "Web",
+      "url": "https://www.tensorflow.org/tfx/guide/serving",
+      "skill": ["TensorFlow Serving"]
+    },
+    {
+      "title": "ONNX Runtime Documentation",
+      "type": "Web",
+      "url": "https://onnxruntime.ai/docs/",
+      "skill": ["ONNX Runtime"]
+    },
+    {
+      "title": "NVIDIA TensorRT Official",
+      "type": "Web",
+      "url": "https://developer.nvidia.com/tensorrt",
+      "skill": ["TensorRT"]
+    },
+    {
+      "title": "Pandas Tutorial - Corey Schafer",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=vmEHCJofslg",
+      "skill": ["Pandas"]
+    },
+    {
+      "title": "Linux Command Line Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=ZtqBQ68cfJc",
+      "skill": ["Linux"]
+    },
+    {
+      "title": "Terraform Tutorial for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=7xngnjfIlK4",
+      "skill": ["Terraform"]
+    },
+    {
+      "title": "Jenkins Beginner Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=LFDrDnKPOTg",
+      "skill": ["Jenkins"]
+    },
+    {
+      "title": "GitHub Actions Documentation",
+      "type": "Web",
+      "url": "https://docs.github.com/en/actions",
+      "skill": ["GitHub Actions"]
+    },
+    {
+      "title": "Prometheus Monitoring Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=h4Sl21AKiDg",
+      "skill": ["Prometheus"]
+    },
+    {
+      "title": "Istio Service Mesh Documentation",
+      "type": "Web",
+      "url": "https://istio.io/latest/docs/",
+      "skill": ["Istio"]
+    },
+    {
+      "title": "Linkerd Service Mesh Overview",
+      "type": "Web",
+      "url": "https://linkerd.io/2.14/overview/",
+      "skill": ["Linkerd"]
+    },
+    {
+      "title": "React Official Tutorial",
+      "type": "Web",
+      "url": "https://react.dev/learn",
+      "skill": ["React"]
+    },
+    {
+      "title": "Redux Toolkit Quick Start",
+      "type": "Web",
+      "url": "https://redux-toolkit.js.org/tutorials/quick-start",
+      "skill": ["Redux"]
+    },
+    {
+      "title": "Tailwind CSS Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=dFgzHOX84xQ",
+      "skill": ["TailwindCSS"]
+    },
+    {
+      "title": "Axios Documentation",
+      "type": "Web",
+      "url": "https://axios-http.com/docs/intro",
+      "skill": ["Axios"]
+    },
+    {
+      "title": "Vite Official Guide",
+      "type": "Web",
+      "url": "https://vitejs.dev/guide/",
+      "skill": ["Vite"]
+    },
+    {
+      "title": "Next.js Official Tutorial",
+      "type": "Web",
+      "url": "https://nextjs.org/learn",
+      "skill": ["Next.js"]
+    },
+    {
+      "title": "Webpack Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=MpGLUVbqoYQ",
+      "skill": ["Webpack"]
+    },
+    {
+      "title": "Storybook Official Documentation",
+      "type": "Web",
+      "url": "https://storybook.js.org/docs",
+      "skill": ["Storybook"]
+    },
+    {
+      "title": "NumPy Beginner Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+      "skill": ["NumPy"]
+    },
+    {
+      "title": "Pandas Official Documentation",
+      "type": "Web",
+      "url": "https://pandas.pydata.org/docs/",
+      "skill": ["Pandas"]
+    },
+    {
+      "title": "Matplotlib Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=3Xc3CA655Y4",
+      "skill": ["Matplotlib"]
+    },
+    {
+      "title": "Hugging Face Transformers Course",
+      "type": "Web",
+      "url": "https://huggingface.co/learn/nlp-course",
+      "skill": ["Transformers"]
+    },
+    {
+      "title": "Diffusers Library Introduction (HuggingFace)",
+      "type": "Web",
+      "url": "https://huggingface.co/docs/diffusers/index",
+      "skill": ["Diffusers"]
+    },
+    {
+      "title": "LangChain Quickstart Guide",
+      "type": "Web",
+      "url": "https://python.langchain.com/docs/get_started/quickstart",
+      "skill": ["LangChain"]
+    },
+    {
+      "title": "FastAPI Beginner Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=tLKKmouUams",
+      "skill": ["FastAPI"]
+    },
+    {
+      "title": "Ray Distributed Computing Overview",
+      "type": "Web",
+      "url": "https://docs.ray.io/en/latest/",
+      "skill": ["Ray"]
+    },
+    {
+      "title": "NVIDIA Triton Inference Server",
+      "type": "Web",
+      "url": "https://github.com/triton-inference-server/server",
+      "skill": ["Triton"]
+    },
+    {
+      "title": "Google Cloud CLI Documentation",
+      "type": "Web",
+      "url": "https://cloud.google.com/sdk/docs",
+      "skill": ["gcloud"]
+    },
+    {
+      "title": "Google Cloud Storage Overview",
+      "type": "Web",
+      "url": "https://cloud.google.com/storage/docs",
+      "skill": ["Cloud Storage"]
+    },
+    {
+      "title": "Compute Engine Overview",
+      "type": "Web",
+      "url": "https://cloud.google.com/compute/docs",
+      "skill": ["Compute Engine"]
+    },
+    {
+      "title": "BigQuery Official Documentation",
+      "type": "Web",
+      "url": "https://cloud.google.com/bigquery/docs",
+      "skill": ["BigQuery"]
+    },
+    {
+      "title": "Vertex AI Documentation",
+      "type": "Web",
+      "url": "https://cloud.google.com/vertex-ai/docs",
+      "skill": ["Vertex AI"]
+    },
+    {
+      "title": "Google Cloud Dataflow Overview",
+      "type": "Web",
+      "url": "https://cloud.google.com/dataflow/docs",
+      "skill": ["Dataflow"]
+    },
+    {
+      "title": "Cloud Build CI/CD Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=T_ekAD7U-wU",
+      "skill": ["Cloud Build"]
+    },
+    {
+      "title": "Artifact Registry Documentation",
+      "type": "Web",
+      "url": "https://cloud.google.com/artifact-registry/docs",
+      "skill": ["Artifact Registry"]
+    },
+    {
+      "title": "GKE (Google Kubernetes Engine) Overview",
+      "type": "Web",
+      "url": "https://cloud.google.com/kubernetes-engine/docs",
+      "skill": ["GKE"]
+    },
+    {
+      "title": "Cloud Deploy Documentation",
+      "type": "Web",
+      "url": "https://cloud.google.com/deploy/docs",
+      "skill": ["Cloud Deploy"]
+    },
+    {
+      "title": "Pub/Sub Overview",
+      "type": "Web",
+      "url": "https://cloud.google.com/pubsub/docs",
+      "skill": ["Pub/Sub"]
+    },
+    {
+      "title": "Swift Programming Full Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=comQ1-x2a1Q",
+      "skill": ["Swift"]
+    },
+    {
+      "title": "SwiftUI Tutorials (Apple Official)",
+      "type": "Web",
+      "url": "https://developer.apple.com/tutorials/swiftui",
+      "skill": ["SwiftUI"]
+    },
+    {
+      "title": "UIKit Documentation (Apple)",
+      "type": "Web",
+      "url": "https://developer.apple.com/documentation/uikit",
+      "skill": ["UIKit"]
+    },
+    {
+      "title": "Combine Framework Essentials",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=5BpTq0_nu3s",
+      "skill": ["Combine"]
+    },
+    {
+      "title": "Core Data Documentation (Apple)",
+      "type": "Web",
+      "url": "https://developer.apple.com/documentation/coredata",
+      "skill": ["CoreData"]
+    },
+    {
+      "title": "URLSession Networking Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=r5Yh5zEw6iY",
+      "skill": ["URLSession"]
+    },
+    {
+      "title": "Alamofire Documentation",
+      "type": "Web",
+      "url": "https://alamofire.github.io/Alamofire/",
+      "skill": ["Alamofire"]
+    },
+    {
+      "title": "CocoaPods Guide",
+      "type": "Web",
+      "url": "https://guides.cocoapods.org/using/getting-started.html",
+      "skill": ["CocoaPods"]
+    },
+    {
+      "title": "Swift Package Manager Documentation",
+      "type": "Web",
+      "url": "https://www.swift.org/package-manager/",
+      "skill": ["SwiftPM"]
+    },
+    {
+      "title": "Firebase iOS SDK Documentation",
+      "type": "Web",
+      "url": "https://firebase.google.com/docs/ios/setup",
+      "skill": ["Firebase SDK"]
+    },
+    {
+      "title": "Fastlane iOS Deployment Guide",
+      "type": "Web",
+      "url": "https://docs.fastlane.tools/getting-started/ios/",
+      "skill": ["Fastlane"]
+    },
+    {
+      "title": "MapKit Overview (Apple Documentation)",
+      "type": "Web",
+      "url": "https://developer.apple.com/documentation/mapkit",
+      "skill": ["MapKit"]
+    },
+    {
+      "title": "AVFoundation Documentation",
+      "type": "Web",
+      "url": "https://developer.apple.com/documentation/avfoundation",
+      "skill": ["AVFoundation"]
+    },
+    {
+      "title": "CoreML Documentation",
+      "type": "Web",
+      "url": "https://developer.apple.com/documentation/coreml",
+      "skill": ["CoreML"]
+    },
+    {
+      "title": "ARKit Tutorial (Apple Developer)",
+      "type": "Web",
+      "url": "https://developer.apple.com/augmented-reality/arkit/",
+      "skill": ["ARKit"]
+    },
+    {
+      "title": "Python Full Beginner Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "skill": ["Python"]
+    },
+    {
+      "title": "Docker Full Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=pTFZFxd4hOI",
+      "skill": ["Docker"]
+    },
+    {
+      "title": "Git & GitHub Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+      "skill": ["Git"]
+    },
+    {
+      "title": "TensorFlow Developer Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+      "skill": ["TensorFlow"]
+    },
+    {
+      "title": "PyTorch Official Tutorials",
+      "type": "Web",
+      "url": "https://pytorch.org/tutorials/",
+      "skill": ["PyTorch"]
+    },
+    {
+      "title": "MLflow Tutorial for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=_ZEWDGpM2X0",
+      "skill": ["MLflow"]
+    },
+    {
+      "title": "DVC (Data Version Control) Documentation",
+      "type": "Web",
+      "url": "https://dvc.org/doc",
+      "skill": ["DVC"]
+    },
+    {
+      "title": "Apache Airflow Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=AHMm1wfGuHE",
+      "skill": ["Airflow"]
+    },
+    {
+      "title": "Kubernetes Tutorial for Beginners",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=8C_SCDbUJTg",
+      "skill": ["Kubernetes"]
+    },
+    {
+      "title": "Prometheus Getting Started",
+      "type": "Web",
+      "url": "https://prometheus.io/docs/introduction/overview/",
+      "skill": ["Prometheus"]
+    },
+    {
+      "title": "Grafana: Getting Started Guide",
+      "type": "Web",
+      "url": "https://grafana.com/docs/grafana/latest/getting-started/",
+      "skill": ["Grafana"]
+    },
+    {
+      "title": "Redis Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=Hbt56gFj998",
+      "skill": ["Redis"]
+    },
+    {
+      "title": "TorchServe Documentation",
+      "type": "Web",
+      "url": "https://pytorch.org/serve/getting_started.html",
+      "skill": ["TorchServe"]
+    },
+    {
+      "title": "Seldon Core Introduction & Demo",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=HDeJbrZrjN8",
+      "skill": ["Seldon Core"]
+    },
+    {
+      "title": "FastAPI Official Tutorial",
+      "type": "Web",
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "skill": ["FastAPI"]
+    },
+    {
+      "title": "Terraform Infrastructure-as-Code Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=l5k1ai_GBDE",
+      "skill": ["Terraform"]
+    },
+    {
+      "title": "AWS SageMaker Workshop",
+      "type": "Web",
+      "url": "https://sagemaker-examples.readthedocs.io/en/latest/",
+      "skill": ["SageMaker"]
+    },
+    {
+      "title": "JavaScript Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+      "skill": ["JavaScript"]
+    },
+    {
+      "title": "TypeScript Handbook",
+      "type": "Web",
+      "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "skill": ["TypeScript"]
+    },
+    {
+      "title": "React Beginner Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+      "skill": ["React"]
+    },
+    {
+      "title": "React Router Tutorial",
+      "type": "Web",
+      "url": "https://reactrouter.com/en/main/start/tutorial",
+      "skill": ["React Router"]
+    },
+    {
+      "title": "Redux Toolkit Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=bbkBuqC1rU4",
+      "skill": ["Redux Toolkit"]
+    },
+    {
+      "title": "Axios HTTP Client Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=6LyagkoRWYA",
+      "skill": ["Axios"]
+    },
+    {
+      "title": "Tailwind CSS Official Getting Started",
+      "type": "Web",
+      "url": "https://tailwindcss.com/docs/installation",
+      "skill": ["TailwindCSS"]
+    },
+    {
+      "title": "Styled Components Crash Course",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=02zO0hZmwnw",
+      "skill": ["Styled Components"]
+    },
+    {
+      "title": "Next.js 13 App Router Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=Y6KDk5iyrYE",
+      "skill": ["Next.js"]
+    },
+    {
+      "title": "React Query Documentation",
+      "type": "Web",
+      "url": "https://tanstack.com/query/v5/docs/framework/react/overview",
+      "skill": ["React Query"]
+    },
+    {
+      "title": "Vitest Official Documentation",
+      "type": "Web",
+      "url": "https://vitest.dev/guide/",
+      "skill": ["Vitest"]
+    },
+    {
+      "title": "Swift Programming Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=F2ojC6TNwws",
+      "skill": ["Swift"]
+    },
+    {
+      "title": "Capacitor Documentation",
+      "type": "Web",
+      "url": "https://capacitorjs.com/docs",
+      "skill": ["Capacitor"]
+    },
+    {
+      "title": "Ionic Framework Guide",
+      "type": "Web",
+      "url": "https://ionicframework.com/docs",
+      "skill": ["Ionic"]
+    },
+    {
+      "title": "Redux Tutorial",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=poQXNp9ItL4",
+      "skill": ["Redux"]
+    },
+    {
+      "title": "Expo React Native Introduction",
+      "type": "Video",
+      "url": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+      "skill": ["Expo"]
+    }
+  ]
+}
+
+

@@ -1,0 +1,170 @@
+﻿learning_path_name,skill,skill_level,prerequisite,description
+Android Developer,Kotlin (Programming Language),Beginner,,"Bahasa utama pengembangan Android modern dengan sintaks ringkas, aman, dan interoperable dengan Java."
+Android Developer,Java (Programming Language),Beginner,,Bahasa lama Android yang tetap digunakan pada banyak kode proyek dan sejumlah library.
+Android Developer,XML Layouting (UI Framework),Beginner,,Sistem UI tradisional Android untuk membangun tampilan aplikasi menggunakan XML.
+Android Developer,Jetpack Compose (UI Framework),Intermediate,Kotlin,Framework UI deklaratif modern yang menggantikan XML dan memudahkan pembuatan UI modular dan reaktif.
+Android Developer,Android Jetpack (Application Framework),Intermediate,Kotlin,"Kumpulan library seperti ViewModel, Room, Navigation, WorkManager yang mendukung arsitektur modern."
+Android Developer,Retrofit (Networking Library),Intermediate,"Kotlin, OkHttp",Library untuk komunikasi REST API secara efisien dengan parsing data otomatis.
+Android Developer,OkHttp (HTTP Client Library),Beginner,Kotlin,"Library HTTP low-level untuk logging, caching, dan intercepting."
+Android Developer,Room Database (Database Framework),Intermediate,"Kotlin, Android Jetpack",ORM modern untuk SQLite dengan verifikasi query dan integrasi LiveData/Flow.
+Android Developer,Hilt (Dependency Injection Framework),Intermediate,"Kotlin, Android Jetpack",Framework DI resmi Android untuk modularitas dan skalabilitas aplikasi besar.
+Android Developer,Kotlin Coroutines (Asynchronous Library),Intermediate,Kotlin,Library untuk concurrency asinkron yang menjaga aplikasi tetap responsif.
+Android Developer,Kotlin Flow (Reactive Stream Library),Intermediate,"Kotlin, Kotlin Coroutines",Library untuk aliran data reaktif yang terintegrasi dengan arsitektur Android.
+Back-End Developer JavaScript,JavaScript (Programming Language),Beginner,,Bahasa inti untuk membangun backend Node.js.
+Back-End Developer JavaScript,Node.js (Runtime Framework),Beginner,JavaScript,Runtime JavaScript untuk membangun backend modular dan scalable.
+Back-End Developer JavaScript,Express.js (Backend Framework),Intermediate,Node.js,Framework minimalis untuk REST API dan web service.
+Back-End Developer JavaScript,PostgreSQL (Database Tool),Intermediate,Node.js,Database relational untuk backend skala kecil hingga enterprise.
+Back-End Developer JavaScript,Prisma ORM (Database Framework),Intermediate,"JavaScript, PostgreSQL",ORM modern untuk manajemen database dengan schema otomatis.
+Back-End Developer JavaScript,Redis (Caching Tool),Intermediate,Node.js,Tools untuk caching dan penyimpanan in-memory berkecepatan tinggi.
+Back-End Developer JavaScript,Docker (Containerization Tool),Intermediate,Node.js,Tools untuk containerizing aplikasi dan service backend.
+Back-End Developer JavaScript,Kubernetes (Container Orchestration Framework),Advanced,Docker,Framework orkestrasi container untuk deployment skala besar.
+Back-End Developer JavaScript,Framework Backend Model Serving,Advanced,"Node.js, Docker",Framework untuk deployment model machine learning di lingkungan backend.
+Back-End Developer JavaScript,Framework Workflow Orchestration,Advanced,"Node.js, Docker",Framework untuk mengelola pipeline kerja otomatis di backend.
+Back-End Developer Python,Python (Programming Language),Beginner,,"Bahasa inti untuk backend berbasis Django, Flask, atau FastAPI."
+Back-End Developer Python,Flask (Backend Framework),Beginner,Python,Framework minimalis untuk REST API dan web service.
+Back-End Developer Python,FastAPI (Backend Framework),Intermediate,Python,Framework modern dengan performa tinggi dan dokumentasi otomatis.
+Back-End Developer Python,Django (Backend Framework),Intermediate,Python,Framework besar untuk aplikasi kompleks dengan ORM bawaan.
+Back-End Developer Python,SQLAlchemy (ORM Framework),Intermediate,Python,ORM untuk interaksi database yang fleksibel.
+Back-End Developer Python,PostgreSQL (Database Tool),Intermediate,Python,Database relational yang stabil untuk backend.
+Back-End Developer Python,Redis (Caching Tool),Intermediate,Python,Sistem caching untuk mempercepat respons backend.
+Back-End Developer Python,Docker (Containerization Tool),Intermediate,Python,Tools untuk mengemas aplikasi dalam container.
+Back-End Developer Python,Framework Backend Model Serving,Advanced,"Python, Docker",Framework untuk melakukan serving model machine learning di backend.
+Back-End Developer Python,Framework Workflow Orchestration,Advanced,"Python, Docker",Framework untuk mengatur pipeline backend dan automation service.
+Data Scientist,Python (Programming Language),Beginner,,"Bahasa inti untuk analisis data, machine learning, dan scientific computing."
+Data Scientist,NumPy (Scientific Computing Library),Beginner,Python,Library untuk operasi matematika dan array multidimensi.
+Data Scientist,Pandas (Data Manipulation Library),Beginner,"Python, NumPy",Library untuk manipulasi data tabular.
+Data Scientist,Matplotlib (Visualization Library),Beginner,Python,Library visualisasi data fundamental.
+Data Scientist,Seaborn (Visualization Library),Beginner,"Python, Matplotlib",Library visualisasi statistik dengan gaya modern.
+Data Scientist,Scikit-Learn (Machine Learning Framework),Intermediate,"Python, NumPy, Pandas",Framework untuk supervised dan unsupervised machine learning.
+Data Scientist,TensorFlow (Deep Learning Framework),Intermediate,"Python, NumPy",Framework untuk neural networks skala besar.
+Data Scientist,PyTorch (Deep Learning Framework),Intermediate,"Python, NumPy",Framework fleksibel untuk deep learning dan riset.
+Data Scientist,MLflow (Experiment Tracking Tool),Intermediate,Python,Tools untuk tracking eksperimen dan model management.
+Data Scientist,Framework Workflow Orchestration,Advanced,"Python, MLflow",Framework untuk mengatur pipeline data dan workflow machine learning.
+Data Scientist,Framework Backend Model Serving,Advanced,"Python, TensorFlow, PyTorch",Framework untuk deployment model machine learning ke production.
+AI Engineer,Python,Beginner,,"Bahasa utama untuk membangun model AI, digunakan dalam machine learning, deep learning, dan automasi pipeline. Penting sebagai fondasi seluruh ekosistem AI modern."
+AI Engineer,"NumPy, Pandas (Library Data Processing)",Beginner,Python,Library fundamental untuk manipulasi numerik dan pengolahan data yang menjadi dasar sebelum masuk ke machine learning.
+AI Engineer,Scikit-Learn (Library Machine Learning),Beginner,"Python, NumPy, Pandas","Library ML klasik yang digunakan untuk preprocessing, modeling, evaluation, dan pipeline. Cocok untuk model baseline sebelum masuk ke deep learning."
+AI Engineer,"TensorFlow, PyTorch (Framework Deep Learning)",Intermediate,"Python, NumPy, Scikit-Learn","Framework utama untuk membangun neural network, training model berskala besar, dan deployment model berbasis GPU."
+AI Engineer,Hugging Face Transformers (Library NLP & Foundation Model),Intermediate,"Python, PyTorch, TensorFlow","Library yang menyediakan model pre-trained seperti BERT, T5, GPT, digunakan pada NLP, model generatif, dan fine-tuning."
+AI Engineer,"ONNX Runtime, TensorRT (Framework Model Optimization)",Intermediate,"TensorFlow, PyTorch","Tools yang digunakan untuk melakukan optimasi model agar lebih cepat dan efisien di GPU, CPU, dan edge devices."
+AI Engineer,FastAPI (Framework Model Serving),Intermediate,Python,Framework API modern untuk menyajikan model AI ke produksi dengan endpoint yang cepat dan efisien.
+AI Engineer,"TorchServe, TensorFlow Serving (Framework Backend Model Serving)",Advanced,"TensorFlow, PyTorch, FastAPI","Framework penyajian model berskala besar dengan autoscaling, batching, dan manajemen beban untuk environment produksi."
+AI Engineer,MLflow (Tool Experiment Tracking),Advanced,"Scikit-Learn, TensorFlow, PyTorch","Tools yang digunakan untuk versi model, logging metric, dan manajemen eksperimen end-to-end."
+AI Engineer,"Airflow, Prefect, Kubeflow (Framework Workflow Orchestration)",Advanced,"MLflow, FastAPI","Framework untuk menjalankan pipeline AI otomatis mulai dari data ingestion, preprocessing, training, evaluation, hingga deployment."
+DevOps Engineer,Linux Command Line,Beginner,,"Fondasi DevOps untuk menjalankan operasi server, proses manajemen file, permission, network, dan monitoring."
+DevOps Engineer,"Git, GitHub (Tool Version Control)",Beginner,Linux Command Line,"Tools versi kontrol yang digunakan untuk kolaborasi tim, branching, conflict resolution, dan CI/CD."
+DevOps Engineer,Docker (Tool Containerization),Beginner,Linux Command Line,Tool untuk membuat container aplikasi sehingga proses deployment menjadi portable dan konsisten.
+DevOps Engineer,Kubernetes (Framework Container Orchestration),Intermediate,Docker,"Framework untuk mengelola container dalam skala besar, autoscaling, load balancing, dan deployment production-grade."
+DevOps Engineer,Terraform (Tool Infrastructure as Code),Intermediate,Linux Command Line,"Tool untuk mendefinisikan infrastruktur sebagai kode guna membangun server, database, dan networking secara otomatis."
+DevOps Engineer,"Jenkins, GitHub Actions (Tool CI CD Pipeline)",Intermediate,"Git, Docker","Tools untuk mengotomasi build, test, dan deployment agar proses rilis aplikasi menjadi cepat dan stabil."
+DevOps Engineer,"Prometheus, Grafana (Tool Monitoring Observability)",Advanced,Kubernetes,"Tools monitoring untuk visibility performa server, aplikasi, cluster, dan alert system."
+DevOps Engineer,"Istio, Linkerd (Framework Service Mesh)",Advanced,Kubernetes,"Framework untuk mengelola komunikasi antar layanan microservices dengan fitur routing, security, dan traffic management."
+Front-End Web Developer,HTML (Markup Language),Beginner,,Markup language fundamental untuk menyusun struktur halaman web.
+Front-End Web Developer,CSS (Style Language),Beginner,HTML,"Core styling language untuk mengatur layout, typography, spacing, dan responsivitas."
+Front-End Web Developer,JavaScript (Programming Language),Beginner,"HTML, CSS","Primary programming language untuk menambahkan dynamic behavior, interactivity, dan logic pada web interface."
+Front-End Web Developer,NPM (Package Management Tool),Beginner,JavaScript,"Tool untuk mengelola JavaScript packages, dependencies, dan project scripts."
+Front-End Web Developer,Git (Version Control Tool),Beginner,,"Tool untuk melacak perubahan kode, kolaborasi, dan mengelola history proyek."
+Front-End Web Developer,React (JavaScript Framework UI),Intermediate,"JavaScript, NPM",Framework UI untuk membangun interactive user interfaces dengan reusable components dan virtual DOM rendering.
+Front-End Web Developer,Redux (State Management Library),Intermediate,React,Library untuk predictable dan centralized state management pada aplikasi React yang kompleks.
+Front-End Web Developer,Tailwind CSS (CSS Utility Framework),Intermediate,CSS,Utility-first CSS framework untuk mempercepat styling dan membuat tampilan modern.
+Front-End Web Developer,Axios (HTTP Request Library),Intermediate,JavaScript,Library untuk menangani API requests dengan dukungan interceptors dan async workflows.
+Front-End Web Developer,Vite (Front-End Build Tool),Intermediate,"JavaScript, NPM",Fast front-end build tool untuk development dan bundling aplikasi.
+Front-End Web Developer,Next.js (React Fullstack Framework),Advanced,"React, NPM","Fullstack React framework yang mendukung server-side rendering, routing, API routes, dan performance optimization."
+Front-End Web Developer,Webpack (Module Bundler Tool),Advanced,"JavaScript, NPM","Module bundler untuk menggabungkan JavaScript modules, mengoptimalkan assets, dan mengatur build pipeline."
+Front-End Web Developer,Storybook (UI Component Development Tool),Advanced,React,"Tool untuk mengembangkan, mengetes, dan mendokumentasikan UI components secara terisolasi."
+Gen AI Engineer,Python (Programming Language),Beginner,,Bahasa utama dalam pengembangan sistem AI generatif karena memiliki ekosistem library yang sangat luas serta sintaks yang efisien untuk eksperimen model.
+Gen AI Engineer,NumPy (Library Numerical Computing),Beginner,Python,"Library untuk komputasi numerik cepat yang menjadi fondasi manipulasi data, operasi tensor, dan perhitungan matematis dalam eksperimen AI."
+Gen AI Engineer,Pandas (Library Data Processing),Beginner,"Python, NumPy","Digunakan untuk memproses, membersihkan, dan memanipulasi data sebelum digunakan dalam pelatihan model generatif."
+Gen AI Engineer,Matplotlib (Library Data Visualization),Beginner,Python,Library untuk visualisasi grafik sehingga proses analisis dataset dan eksplorasi hasil model dapat dilakukan lebih mudah.
+Gen AI Engineer,PyTorch (Framework Deep Learning),Intermediate,"Python, NumPy","Framework populer untuk membangun, melatih, dan mengevaluasi model AI generatif seperti GAN, VAE, LLM kecil, dan model multimodal."
+Gen AI Engineer,TensorFlow (Framework Deep Learning),Intermediate,"Python, NumPy",Framework alternatif untuk membangun model pembelajaran mendalam dengan ekosistem produksi yang stabil dan dukungan deployment luas.
+Gen AI Engineer,Transformers (Library Large Language Models),Intermediate,"Python, PyTorch","Library yang menyediakan model LLM siap pakai, tokenizer, pipeline inferensi, dan alat untuk fine-tuning model generatif berbagai ukuran."
+Gen AI Engineer,Diffusers (Library Generative Image Models),Intermediate,"Python, PyTorch",Library untuk membangun dan melakukan fine-tuning model difusi seperti Stable Diffusion untuk pembuatan gambar generatif.
+Gen AI Engineer,LangChain (Framework LLM Application Development),Intermediate,"Python, Transformers","Framework untuk membangun aplikasi LLM seperti agent, retrieval-augmented generation, dan sistem yang menggabungkan beberapa model AI."
+Gen AI Engineer,Vector Databases (Tool Vector Indexing),Intermediate,"Python, Embedding Models","Basis data untuk menyimpan embedding agar sistem pencarian semantik, RAG, dan memory-based reasoning dapat berjalan cepat dan efisien."
+Gen AI Engineer,FastAPI (Framework API Serving),Intermediate,Python,Framework ringan untuk menyajikan model AI generatif ke dalam bentuk layanan API berperforma tinggi.
+Gen AI Engineer,MLflow (Tool Experiment Tracking),Intermediate,"Python, PyTorch, TensorFlow","Alat untuk melacak eksperimen, parameter, dan model sehingga proses penelitian dan pengembangan tetap terstruktur."
+Gen AI Engineer,Docker (Tool Containerization),Intermediate,"Python, FastAPI",Digunakan untuk mengemas aplikasi AI generatif agar dapat berjalan stabil di berbagai lingkungan deployment.
+Gen AI Engineer,Ray (Framework Workflow Orchestration),Advanced,"Python, PyTorch, TensorFlow","Framework untuk menjalankan training, inference, dan pipeline model generatif pada lingkungan terdistribusi yang membutuhkan skalabilitas tinggi."
+Gen AI Engineer,Kubernetes (Framework Container Orchestration),Advanced,Docker,"Digunakan untuk menjalankan model AI generatif dalam skala besar dengan fitur autoscaling, load balancing, dan manajemen cluster."
+Gen AI Engineer,Triton Inference Server (Framework Model Serving),Advanced,"Python, PyTorch, TensorFlow",Framework untuk menyajikan model AI generatif dengan performa tinggi dan dukungan backend multi-framework.
+Gen AI Engineer,Weights & Biases (Tool Experiment Management),Advanced,"Python, PyTorch, TensorFlow","Platform untuk monitoring metrik, visualisasi training, serta manajemen model generatif secara menyeluruh."
+Google Cloud Professional,Python (Programming Language),Beginner,,"Bahasa pemrograman yang banyak digunakan untuk automasi, analisis data, dan pengembangan layanan berbasis cloud. Menjadi fondasi untuk scripting, machine learning, serta integrasi layanan Google Cloud."
+Google Cloud Professional,Google Cloud Cli (Tool),Beginner,Python,"Tool command-line untuk mengelola resource Google Cloud, menjalankan perintah deployment, monitoring, serta konfigurasi service tanpa antarmuka web."
+Google Cloud Professional,Cloud Storage (Tool),Beginner,Google Cloud CLI,"Layanan penyimpanan objek berskala besar yang digunakan untuk menyimpan file, dataset, model, log, dan resource lainnya."
+Google Cloud Professional,Compute Engine (Tool),Intermediate,Cloud Storage,"Infrastruktur mesin virtual yang memungkinkan penyebaran aplikasi, server backend, atau lingkungan komputasi khusus secara fleksibel."
+Google Cloud Professional,Cloud Functions (Framework),Intermediate,Python,"Framework serverless untuk menjalankan fungsi ringan berbasis event tanpa perlu mengelola server. Cocok untuk automasi, webhook, dan pipeline data sederhana."
+Google Cloud Professional,Cloud Run (Framework),Intermediate,Cloud Functions,"Framework untuk menjalankan container secara serverless dengan scaling otomatis dan biaya berbasis penggunaan. Cocok untuk API, backend microservices, atau task pemrosesan."
+Google Cloud Professional,Bigquery (Tool),Intermediate,Cloud Storage,"Layanan data warehouse yang digunakan untuk analisis data berskala besar. Mendukung SQL standar, integrasi pipeline, serta performa komputasi yang tinggi."
+Google Cloud Professional,Vertex Ai (Framework),Intermediate,"Python, BigQuery","Framework end-to-end untuk training, tuning, deployment, dan monitoring model machine learning secara terstruktur. Mendukung MLOps dan integrasi AutoML."
+Google Cloud Professional,Dataflow (Framework Data Processing),Advanced,"Python, BigQuery","Framework untuk memproses data batch dan streaming dalam skala besar. Mendukung pipeline fleksibel untuk ETL, pemrosesan event, dan integrasi real-time."
+Google Cloud Professional,Cloud Build (Tool CI/CD),Advanced,"Cloud Run, Compute Engine","Tool untuk membangun, menguji, dan mendistribusikan aplikasi secara otomatis. Digunakan untuk workflow CI/CD dan integrasi dengan repositori kode."
+Google Cloud Professional,Artifact Registry (Tool),Advanced,Cloud Build,"Layanan untuk menyimpan container image, package, dan artefak software lain dalam lingkungan yang aman dan terkontrol."
+Google Cloud Professional,Gke – Google Kubernetes Engine (Framework Orchestration),Advanced,"Compute Engine, Cloud Run","Framework orchestration untuk menjalankan aplikasi berbasis container dengan autoscaling, manajemen cluster, dan integrasi penuh dengan ekosistem cloud."
+Google Cloud Professional,Cloud Deploy (Tool),Advanced,GKE,Tool untuk continuous delivery yang memudahkan deployment aplikasi ke lingkungan staging dan produksi dengan workflow otomatis.
+Google Cloud Professional,Pub/Sub (Tool Messaging Streaming),Intermediate,Cloud Storage,"Layanan messaging real-time yang digunakan untuk event-driven architecture, streaming data, dan komunikasi antar layanan berskala besar."
+Google Cloud Professional,Looker Studio (Tool Data Visualization),Intermediate,BigQuery,"Tool untuk membuat dashboard interaktif berbasis data, mendukung laporan operasional dan analitik bisnis dalam ekosistem Google Cloud."
+iOS Developer,Swift (Programming Language),Beginner,,"Bahasa utama untuk pengembangan aplikasi iOS modern yang cepat, aman, dan memiliki dukungan ekosistem luas. Penguasaan Swift menjadi fondasi untuk memahami seluruh framework di iOS."
+iOS Developer,SwiftUI (Framework UI),Beginner,Swift,Framework UI deklaratif modern untuk membangun tampilan aplikasi iOS dengan cara yang lebih ringkas dan intuitif. Mendukung pembuatan antarmuka responsif di seluruh perangkat Apple.
+iOS Developer,UIKit (Framework UI),Intermediate,Swift,"Framework UI tradisional yang masih digunakan secara luas di banyak aplikasi produksi. Memberikan kontrol penuh terhadap layout, tampilan, dan interaksi pengguna."
+iOS Developer,Combine (Framework Reactive Programming),Intermediate,"Swift, SwiftUI","Framework reaktif untuk mengelola event stream, asynchronous data, dan state aplikasi. Banyak digunakan pada arsitektur modern iOS."
+iOS Developer,CoreData (Framework Data Persistence),Intermediate,Swift,"Framework penyimpanan data lokal untuk mengelola database, relationship, dan pemetaan objek yang kompleks."
+iOS Developer,URLSession (Library Networking),Beginner,Swift,"Library bawaan untuk melakukan request HTTP, download data, dan komunikasi dasar dengan backend."
+iOS Developer,Alamofire (Library Networking),Intermediate,Swift,"Library networking populer yang menyederhanakan request HTTP, JSON parsing, dan manajemen API dengan kode yang lebih bersih."
+iOS Developer,CocoaPods (Tools Dependency Management),Beginner,Swift,Tools manajemen dependency yang memudahkan integrasi library eksternal pada proyek iOS.
+iOS Developer,Swift Package Manager (Tools Dependency Management),Beginner,Swift,Tools resmi untuk mengelola dependency tanpa konfigurasi tambahan. Mendukung integrasi library modern dengan lebih cepat.
+iOS Developer,Xcode (Tools IDE),Beginner,Swift,"Tools utama untuk membangun, menguji, dan men-deploy aplikasi iOS. Menyediakan debugging, simulator, profiling, dan manajemen project lengkap."
+iOS Developer,Firebase SDK (Framework Backend Services),Intermediate,"Swift, URLSession","Framework layanan cloud seperti autentikasi, database, analytics, dan push notification yang memudahkan integrasi backend tanpa server sendiri."
+iOS Developer,TestFlight (Tools Beta Deployment),Intermediate,Xcode,Tools resmi untuk pengujian aplikasi iOS sebelum rilis. Mendukung distribusi ke tester dengan mudah dan aman.
+iOS Developer,Fastlane (Tools Automation Deployment),Advanced,Xcode,"Tools otomatisasi untuk build, testing, dan deployment. Mempercepat pipeline CI/CD untuk aplikasi iOS."
+iOS Developer,MapKit (Framework Location & Map),Intermediate,Swift,"Framework untuk menampilkan peta, mencari tempat, dan mengelola koordinat secara native pada aplikasi iOS."
+iOS Developer,AVFoundation (Framework Media Processing),Intermediate,Swift,"Framework yang digunakan untuk memproses audio dan video, termasuk recording, editing, dan playback."
+iOS Developer,SpriteKit (Framework 2D Game Engine),Intermediate,Swift,"Framework bawaan Apple untuk membangun game 2D, animasi, dan efek grafis dengan performa tinggi."
+iOS Developer,CoreML (Framework Machine Learning),Intermediate,Swift,"Framework untuk menjalankan model machine learning secara lokal di perangkat Apple, mendukung prediksi cepat dan offline."
+iOS Developer,ARKit (Framework Augmented Reality),Advanced,"Swift, CoreML","Framework untuk membangun pengalaman augmented reality realistis menggunakan kamera, sensor gerak, dan teknologi spatial Apple."
+MLOps Engineer,Python (Programming Language),Beginner,,"Bahasa utama untuk membangun pipeline ML, automasi, model training, serta integrasi dengan library machine learning modern."
+MLOps Engineer,Docker (Containerization Tool),Beginner,Python,Digunakan untuk membuat environment yang konsisten sehingga model dan aplikasi dapat berjalan pada berbagai platform tanpa konflik.
+MLOps Engineer,Git (Version Control Tool),Beginner,Python,"Mendukung pengelolaan versi kode, kolaborasi, serta integrasi otomatis dalam pipeline MLOps."
+MLOps Engineer,TensorFlow (Framework Deep Learning),Intermediate,Python,"Framework yang digunakan untuk pembuatan, pelatihan, dan deployment model deep learning dengan skalabilitas tinggi."
+MLOps Engineer,PyTorch (Framework Deep Learning),Intermediate,Python,Framework fleksibel yang cocok untuk eksperimen model dan integrasi dengan pipeline training modern.
+MLOps Engineer,MLflow (Framework Experiment Tracking),Intermediate,"Python, Docker","Tools untuk melacak eksperimen, mengelola model registry, dan membantu proses deployment."
+MLOps Engineer,DVC (Data Version Control Tool),Intermediate,"Git, Python","Dipakai untuk versioning dataset, model, dan pipeline sehingga pengembangan dapat direplikasi dengan konsisten."
+MLOps Engineer,Airflow (Framework Workflow Orchestration),Intermediate,"Python, Docker","Digunakan untuk mengatur alur kerja pipeline ML yang kompleks, membuat jadwal otomatis, serta mengelola dependensi tugas."
+MLOps Engineer,Kubeflow (Framework ML Pipeline Orchestration),Advanced,"Kubernetes, Docker, Python","Framework untuk mengelola pipeline ML berbasis Kubernetes sehingga proses training, tuning, dan deployment menjadi terstandarisasi."
+MLOps Engineer,Kubernetes (Container Orchestration Tool),Advanced,Docker,"Platform untuk menjalankan, men-scale, dan mengelola layanan ML dalam lingkungan produksi dengan reliability tinggi."
+MLOps Engineer,Prometheus (Monitoring Tool),Intermediate,"Docker, Kubernetes","Tools untuk memonitor performa service ML, resource usage, serta mendukung alerting pada kondisi sistem."
+MLOps Engineer,Grafana (Visualization Tool),Intermediate,Prometheus,"Platform visualisasi untuk analisis performa sistem, model serving, dan health monitoring secara real-time."
+MLOps Engineer,Redis (In-Memory Caching Tool),Intermediate,Python,"Digunakan untuk caching hasil inferensi, menyimpan metadata cepat, dan meningkatkan performa microservices ML."
+MLOps Engineer,TensorFlow Serving (Framework Backend Model Serving),Advanced,"TensorFlow, Docker",Framework untuk menyajikan model TensorFlow secara scalable di production environment.
+MLOps Engineer,TorchServe (Framework Backend Model Serving),Advanced,"PyTorch, Docker",Framework untuk melakukan model serving berbasis PyTorch dengan performa tinggi dan konfigurasi fleksibel.
+MLOps Engineer,Seldon Core (Framework Backend Model Serving),Advanced,"Kubernetes, Docker",Framework untuk deployment model skala besar di lingkungan Kubernetes dengan dukungan monitoring dan A/B testing.
+MLOps Engineer,FastAPI (Framework Backend),Intermediate,Python,Framework backend cepat untuk membuat REST API model serving dengan latensi rendah.
+MLOps Engineer,Terraform (Infrastructure As Code Tool),Advanced,"Docker, Kubernetes","Digunakan untuk provisioning infrastruktur cloud secara otomatis, reproducible, dan terkontrol."
+MLOps Engineer,AWS SageMaker (Mlops Platform Tool),Advanced,"Python, Docker","Platform terintegrasi untuk training, tuning, experiment tracking, dan deployment model dalam skala produksi."
+React Developer,JavaScript (Programming Language),Beginner,,"Pondasi utama untuk membangun aplikasi menggunakan React. Dibutuhkan untuk memahami sintaks modern, manipulasi data, dan interaksi dengan browser."
+React Developer,TypeScript (Programming Language),Beginner,JavaScript,"Bahasa yang menambahkan tipe statis untuk membantu struktur kode lebih rapi, mudah dipelihara, serta mengurangi bug pada proyek React."
+React Developer,React (Framework UI),Beginner,JavaScript,"Framework UI berbasis komponen untuk membangun antarmuka interaktif, reusable, dan responsif. Menjadi inti dari seluruh ekosistem React Developer."
+React Developer,React Router (Library Routing),Intermediate,React,Library untuk mengelola navigasi multipage dalam aplikasi React. Memastikan perpindahan halaman berjalan cepat dan konsisten.
+React Developer,Redux Toolkit (Library State Management),Intermediate,React,Library untuk mengelola state global aplikasi dengan cara yang lebih terstruktur dan mudah dikelola pada aplikasi berskala besar.
+React Developer,Zustand (Library State Management),Intermediate,React,"Library state management ringan yang fleksibel dan mudah diintegrasikan, cocok untuk aplikasi dengan kebutuhan state sederhana hingga menengah."
+React Developer,Axios (Library HTTP Client),Intermediate,JavaScript,"Library untuk melakukan request ke API dengan lebih sederhana, stabil, dan mudah dikelola pada aplikasi React yang membutuhkan data eksternal."
+React Developer,Tailwind CSS (Framework Styling),Intermediate,,Framework styling utilitas yang mempercepat pembuatan antarmuka dengan kelas bawaan yang konsisten dan mudah dikustomisasi.
+React Developer,Styled Components (Library Styling),Intermediate,React,Library untuk menuliskan styling berbasis komponen sehingga styling lebih modular dan mudah dipelihara.
+React Developer,Next.js (Framework Fullstack React),Advanced,"React, JavaScript","Framework berbasis React yang mendukung server-side rendering, routing otomatis, optimasi performa, dan kemampuan fullstack untuk membuat aplikasi modern yang cepat."
+React Developer,React Query (Library Data Fetching),Advanced,"React, Axios","Library untuk mengelola data asinkron, caching, dan sinkronisasi dengan server sehingga aplikasi lebih cepat dan efisien."
+React Developer,Vitest (Tools Testing),Advanced,"JavaScript, React",Tools untuk melakukan unit testing dan komponen testing di lingkungan React dengan proses yang cepat dan terisolasi.
+React Developer,Vite (Tools Build System),Advanced,JavaScript,"Tools modern untuk environment development React yang cepat, ringan, dan lebih efisien dibandingkan bundler tradisional."
+Multi-Platform App Developer,JavaScript (Programming Language),Beginner,,Bahasa inti yang digunakan untuk membangun aplikasi lintas platform melalui berbagai framework modern seperti React Native dan Ionic.
+Multi-Platform App Developer,TypeScript (Programming Language),Intermediate,JavaScript,"Bahasa yang menambahkan sistem tipe pada JavaScript sehingga kode lebih aman, mudah dipelihara, dan stabil di proyek multi-platform."
+Multi-Platform App Developer,React Native (Framework Mobile Development),Intermediate,"JavaScript, TypeScript",Framework untuk membangun aplikasi Android dan iOS menggunakan komponen deklaratif dengan performa yang mendekati native.
+Multi-Platform App Developer,Flutter (Framework UI SDK),Intermediate,Dart,"Framework multi-platform berbasis widget untuk membangun UI konsisten di mobile, web, dan desktop dengan performa tinggi."
+Multi-Platform App Developer,Dart (Programming Language),Beginner,,"Bahasa yang digunakan Flutter, mendukung model pemrograman reaktif dengan proses kompilasi cepat untuk aplikasi lintas platform."
+Multi-Platform App Developer,Kotlin Multiplatform (Framework Multi-Platform),Advanced,Kotlin,"Framework untuk berbagi business logic lintas platform sehingga mengurangi duplikasi kode pada Android, iOS, desktop, dan web."
+Multi-Platform App Developer,SwiftUI (Framework UI iOS),Intermediate,Swift,"Framework UI deklaratif untuk iOS, macOS, watchOS, dan tvOS yang mempermudah pembuatan tampilan modern dan responsif."
+Multi-Platform App Developer,Swift (Programming Language),Intermediate,,"Bahasa utama pada ekosistem Apple yang cepat, aman, dan banyak dipakai dalam pengembangan aplikasi lintas platform berbasis Apple."
+Multi-Platform App Developer,Capacitor (Framework Cross-Platform Runtime),Intermediate,"JavaScript, TypeScript",Framework runtime untuk membangun aplikasi web yang dapat dijalankan sebagai aplikasi mobile melalui plugin native.
+Multi-Platform App Developer,Ionic (Framework Hybrid Mobile Development),Intermediate,"JavaScript, TypeScript, Capacitor",Framework UI hybrid yang memanfaatkan teknologi web untuk membuat aplikasi mobile dengan tampilan konsisten di berbagai platform.
+Multi-Platform App Developer,Redux (Library State Management),Intermediate,JavaScript,"Library yang mengelola state aplikasi kompleks secara terstruktur dan konsisten, banyak digunakan di proyek React Native."
+Multi-Platform App Developer,Riverpod (Library State Management),Intermediate,"Dart, Flutter",Library state management modern untuk Flutter dengan pendekatan yang fleksibel dan mudah diatur.
+Multi-Platform App Developer,Fastlane (Tools CI/CD Mobile Deployment),Advanced,,"Tools otomasi untuk build, testing, dan deployment aplikasi lintas platform, terutama untuk Android dan iOS."
+Multi-Platform App Developer,Expo (Framework React Native Toolkit),Intermediate,JavaScript,"Toolkit untuk mempercepat pengembangan React Native melalui API siap pakai, workflow sederhana, dan proses build otomatis."

@@ -1,0 +1,272 @@
+name,email,predicted_skills
+Dina Wijaya,dina.wijaya1@example.com,
+Irfan Halim,irfan.halim2@example.com,
+Hana Pratama,hana.pratama3@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Dina Utama,dina.utama4@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Rafi Santoso,rafi.santoso5@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Sari Kusuma,sari.kusuma6@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Bima Wijaya,bima.wijaya7@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Citra Halim,citra.halim8@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Hana Saputra,hana.saputra9@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Tono Wijaya,tono.wijaya10@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Rafi Halim,rafi.halim11@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Rafi Kusuma,rafi.kusuma12@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Hana Ramadhan,hana.ramadhan13@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Sari Siregar,sari.siregar14@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Ari Agustina,ari.agustina15@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Fira Hartono,fira.hartono16@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Nando Putri,nando.putri17@example.com,"android sdk, androidx, java, kotlin, livedata, navigation component, recyclerview, rest api, room, viewbinding, viewmodel"
+Irfan Pratama,irfan.pratama18@example.com,
+Gilang Agustina,gilang.agustina19@example.com,
+Kiki Santoso,kiki.santoso20@example.com,
+Citra Kusuma,citra.kusuma21@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Dina Putri,dina.putri22@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Lestari Gunawan,lestari.gunawan23@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Irfan Agustina,irfan.agustina24@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Bima Hartono,bima.hartono25@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Oka Saputra,oka.saputra26@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Dina Prasetyo,dina.prasetyo27@example.com,"android sdk, glide, java, kotlin, recyclerview, view, view binding, viewgroup"
+Maya Santoso,maya.santoso28@example.com,
+Rafi Siregar,rafi.siregar29@example.com,
+Tono Prasetyo,tono.prasetyo30@example.com,
+Lestari Gunawan,lestari.gunawan31@example.com,
+Gilang Hartono,gilang.hartono32@example.com,
+Citra Wijaya,citra.wijaya33@example.com,
+Hana Agustina,hana.agustina34@example.com,
+Juno Santoso,juno.santoso35@example.com,"coroutines, kotlin, kotlin dsl, kotlin standard library"
+Hana Wibowo,hana.wibowo36@example.com,"coroutines, kotlin, kotlin dsl, kotlin standard library"
+Dina Kusuma,dina.kusuma37@example.com,"coroutines, kotlin, kotlin dsl, kotlin standard library"
+Irfan Ramadhan,irfan.ramadhan38@example.com,"coroutines, kotlin, kotlin dsl, kotlin standard library"
+Lestari Pratama,lestari.pratama39@example.com,"coroutines, kotlin, kotlin dsl, kotlin standard library"
+Lestari Putri,lestari.putri40@example.com,"coroutines, kotlin, kotlin dsl, kotlin standard library"
+Gilang Utama,gilang.utama41@example.com,
+Irfan Hartono,irfan.hartono42@example.com,"numpy, pandas, python"
+Citra Gunawan,citra.gunawan43@example.com,"numpy, pandas, python"
+Fira Saputra,fira.saputra44@example.com,"numpy, pandas, python"
+Hana Pratama,hana.pratama45@example.com,"numpy, pandas, python"
+Oka Kusuma,oka.kusuma46@example.com,"numpy, pandas, python"
+Irfan Prasetyo,irfan.prasetyo47@example.com,"numpy, pandas, python"
+Rafi Halim,rafi.halim48@example.com,"numpy, pandas, python"
+Kiki Wibowo,kiki.wibowo49@example.com,
+Bima Halim,bima.halim50@example.com,
+Bima Agustina,bima.agustina51@example.com,
+Kiki Kusuma,kiki.kusuma52@example.com,
+Irfan Santoso,irfan.santoso53@example.com,
+Gilang Prasetyo,gilang.prasetyo54@example.com,"css, flexbox, html"
+Sari Prasetyo,sari.prasetyo55@example.com,"css, flexbox, html"
+Kiki Halim,kiki.halim56@example.com,"css, flexbox, html"
+Putu Kusuma,putu.kusuma57@example.com,"css, flexbox, html"
+Oka Pratama,oka.pratama58@example.com,"css, flexbox, html"
+Irfan Pratama,irfan.pratama59@example.com,"css, flexbox, html"
+Hana Hartono,hana.hartono60@example.com,"css, flexbox, html"
+Rafi Saputra,rafi.saputra61@example.com,"css, flexbox, html"
+Irfan Hartono,irfan.hartono62@example.com,"css, flexbox, html"
+Sari Kusuma,sari.kusuma63@example.com,
+Sari Kusuma,sari.kusuma64@example.com,
+Lestari Halim,lestari.halim65@example.com,"bigquery, cloud bigtable, dataflow, dataproc, firestore, google cloud platform, google compute engine, google kubernetes engine, pub/sub"
+Eko Saputra,eko.saputra66@example.com,
+Putu Santoso,putu.santoso67@example.com,
+Bima Wibowo,bima.wibowo68@example.com,"swift, xcode"
+Dina Pratama,dina.pratama69@example.com,"swift, xcode"
+Fira Agustina,fira.agustina70@example.com,
+Nando Gunawan,nando.gunawan71@example.com,
+Citra Kusuma,citra.kusuma72@example.com,
+Maya Gunawan,maya.gunawan73@example.com,"dart, flutter"
+Oka Saputra,oka.saputra74@example.com,"dart, flutter"
+Irfan Saputra,irfan.saputra75@example.com,"dart, flutter"
+Ari Utama,ari.utama76@example.com,"ajax, css, html, javascript, npm, web component, webpack"
+Dina Utama,dina.utama77@example.com,"ajax, css, html, javascript, npm, web component, webpack"
+Rafi Agustina,rafi.agustina78@example.com,"ajax, css, html, javascript, npm, web component, webpack"
+Irfan Agustina,irfan.agustina79@example.com,"coroutine flow, dagger, dagger hilt, kotlin, lottie, retrofit, rxjava, timber"
+Kiki Santoso,kiki.santoso80@example.com,"dart, java, javascript, kotlin, python, swift"
+Juno Kusuma,juno.kusuma81@example.com,"dart, java, javascript, kotlin, python, swift"
+Fira Ramadhan,fira.ramadhan82@example.com,"dart, java, javascript, kotlin, python, swift"
+Ari Hartono,ari.hartono83@example.com,"dart, java, javascript, kotlin, python, swift"
+Irfan Saputra,irfan.saputra84@example.com,
+Fira Saputra,fira.saputra85@example.com,
+Dina Wibowo,dina.wibowo86@example.com,
+Juno Wibowo,juno.wibowo87@example.com,
+Qori Gunawan,qori.gunawan88@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Gilang Pratama,gilang.pratama89@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Lestari Agustina,lestari.agustina90@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Fira Saputra,fira.saputra91@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Qori Prasetyo,qori.prasetyo92@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Ari Gunawan,ari.gunawan93@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Kiki Ramadhan,kiki.ramadhan94@example.com,"python, pytorch, scikit-learn, scikit‑learn, tensorflow"
+Ari Santoso,ari.santoso95@example.com,"keras, python, tensorflow, tensorflow data services, tensorflow lite, tensorflow serving, tensorflow.js"
+Lestari Prasetyo,lestari.prasetyo96@example.com,"keras, python, tensorflow, tensorflow data services, tensorflow lite, tensorflow serving, tensorflow.js"
+Juno Halim,juno.halim97@example.com,dart
+Bima Halim,bima.halim98@example.com,dart
+Sari Santoso,sari.santoso99@example.com,"css, html"
+Citra Hartono,citra.hartono100@example.com,"css, html"
+Putu Wibowo,putu.wibowo101@example.com,"css, html"
+Citra Agustina,citra.agustina102@example.com,
+Rafi Agustina,rafi.agustina103@example.com,
+Eko Pratama,eko.pratama104@example.com,
+Putu Saputra,putu.saputra105@example.com,
+Fira Siregar,fira.siregar106@example.com,
+Qori Wibowo,qori.wibowo107@example.com,
+Tono Kusuma,tono.kusuma108@example.com,
+Gilang Prasetyo,gilang.prasetyo109@example.com,
+Rafi Agustina,rafi.agustina110@example.com,
+Gilang Hartono,gilang.hartono111@example.com,
+Juno Kusuma,juno.kusuma112@example.com,
+Lestari Ramadhan,lestari.ramadhan113@example.com,
+Qori Ramadhan,qori.ramadhan114@example.com,
+Dina Halim,dina.halim115@example.com,
+Hana Santoso,hana.santoso116@example.com,
+Kiki Wijaya,kiki.wijaya117@example.com,
+Sari Saputra,sari.saputra118@example.com,
+Hana Gunawan,hana.gunawan119@example.com,
+Hana Wijaya,hana.wijaya120@example.com,
+Citra Hartono,citra.hartono121@example.com,
+Bima Halim,bima.halim122@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Citra Prasetyo,citra.prasetyo123@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Bima Wibowo,bima.wibowo124@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Kiki Santoso,kiki.santoso125@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Qori Halim,qori.halim126@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Irfan Utama,irfan.utama127@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Putu Halim,putu.halim128@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Rafi Pratama,rafi.pratama129@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Sari Gunawan,sari.gunawan130@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Putu Halim,putu.halim131@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Putu Agustina,putu.agustina132@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Nando Halim,nando.halim133@example.com,"ecmascript, es6, javascript, node.js, typescript"
+Dina Santoso,dina.santoso134@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Nando Putri,nando.putri135@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Nando Kusuma,nando.kusuma136@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Oka Wibowo,oka.wibowo137@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Bima Utama,bima.utama138@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Dina Wijaya,dina.wijaya139@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Maya Hartono,maya.hartono140@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Kiki Agustina,kiki.agustina141@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Dina Halim,dina.halim142@example.com,"django, django rest framework, google cloud, hapi, javascript, node.js"
+Gilang Halim,gilang.halim143@example.com,
+Rafi Ramadhan,rafi.ramadhan144@example.com,
+Eko Kusuma,eko.kusuma145@example.com,
+Fira Siregar,fira.siregar146@example.com,
+Oka Halim,oka.halim147@example.com,
+Citra Ramadhan,citra.ramadhan148@example.com,"celery, django, hapi, javascript, joi, node.js, postgresql, rabbitmq, redis"
+Rafi Santoso,rafi.santoso149@example.com,"celery, django, hapi, javascript, joi, node.js, postgresql, rabbitmq, redis"
+Bima Utama,bima.utama150@example.com,"celery, django, hapi, javascript, joi, node.js, postgresql, rabbitmq, redis"
+Rafi Wibowo,rafi.wibowo151@example.com,"express.js, hapi.js, javascript, node.js"
+Ari Santoso,ari.santoso152@example.com,
+Hana Pratama,hana.pratama153@example.com,
+Nando Ramadhan,nando.ramadhan154@example.com,
+Putu Halim,putu.halim155@example.com,
+Maya Prasetyo,maya.prasetyo156@example.com,
+Bima Pratama,bima.pratama157@example.com,
+Maya Wijaya,maya.wijaya158@example.com,
+Maya Siregar,maya.siregar159@example.com,
+Oka Siregar,oka.siregar160@example.com,
+Nando Hartono,nando.hartono161@example.com,
+Rafi Utama,rafi.utama162@example.com,
+Putu Pratama,putu.pratama163@example.com,
+Gilang Siregar,gilang.siregar164@example.com,
+Gilang Wijaya,gilang.wijaya165@example.com,
+Sari Hartono,sari.hartono166@example.com,
+Rafi Wijaya,rafi.wijaya167@example.com,
+Kiki Wijaya,kiki.wijaya168@example.com,"css, dom, html, javascript"
+Bima Gunawan,bima.gunawan169@example.com,"css, dom, html, javascript"
+Putu Saputra,putu.saputra170@example.com,"css, dom, html, javascript"
+Qori Pratama,qori.pratama171@example.com,"css, dom, html, javascript"
+Bima Saputra,bima.saputra172@example.com,"css, dom, html, javascript"
+Citra Wibowo,citra.wibowo173@example.com,"css, dom, html, javascript"
+Fira Santoso,fira.santoso174@example.com,"css, dom, html, javascript"
+Tono Santoso,tono.santoso175@example.com,"css, dom, html, javascript"
+Hana Kusuma,hana.kusuma176@example.com,"css, dom, html, javascript"
+Dina Prasetyo,dina.prasetyo177@example.com,
+Sari Halim,sari.halim178@example.com,
+Sari Gunawan,sari.gunawan179@example.com,
+Bima Gunawan,bima.gunawan180@example.com,
+Citra Kusuma,citra.kusuma181@example.com,
+Sari Gunawan,sari.gunawan182@example.com,
+Qori Putri,qori.putri183@example.com,
+Irfan Halim,irfan.halim184@example.com,"keras, python, pytorch, scikit‑learn, tensorflow"
+Kiki Halim,kiki.halim185@example.com,
+Irfan Kusuma,irfan.kusuma186@example.com,
+Eko Utama,eko.utama187@example.com,
+Juno Ramadhan,juno.ramadhan188@example.com,
+Kiki Prasetyo,kiki.prasetyo189@example.com,
+Citra Wijaya,citra.wijaya190@example.com,"bigquery, google cloud, google cloud platform, google kubernetes engine, kubernetes, pub/sub, virtual machine"
+Oka Gunawan,oka.gunawan191@example.com,
+Sari Santoso,sari.santoso192@example.com,
+Citra Saputra,citra.saputra193@example.com,
+Gilang Saputra,gilang.saputra194@example.com,"django, django rest framework, google cloud, hapi, node.js"
+Irfan Pratama,irfan.pratama195@example.com,"django, django rest framework, google cloud, hapi, node.js"
+Lestari Prasetyo,lestari.prasetyo196@example.com,"android widget, canvas, firebase, json / rest api, kotlin, mediaplayer / soundpool, motion layout, paging, property animation, room, webview"
+Citra Prasetyo,citra.prasetyo197@example.com,
+Hana Putri,hana.putri198@example.com,
+Juno Pratama,juno.pratama199@example.com,
+Oka Wibowo,oka.wibowo200@example.com,
+Rafi Hartono,rafi.hartono201@example.com,"ansible, aws, chef, docker, grafana, kubernetes, puppet, terraform"
+Juno Gunawan,juno.gunawan202@example.com,"ansible, aws, chef, docker, grafana, kubernetes, puppet, terraform"
+Qori Wijaya,qori.wijaya203@example.com,"ansible, aws, chef, docker, grafana, kubernetes, puppet, terraform"
+Rafi Siregar,rafi.siregar204@example.com,"amazon ec2, aws, cisco packet tracker"
+Dina Prasetyo,dina.prasetyo205@example.com,"amazon ec2, aws, cisco packet tracker"
+Eko Siregar,eko.siregar206@example.com,"amazon ec2, aws, cisco packet tracker"
+Dina Prasetyo,dina.prasetyo207@example.com,
+Dina Hartono,dina.hartono208@example.com,
+Rafi Pratama,rafi.pratama209@example.com,
+Irfan Siregar,irfan.siregar210@example.com,"javascript, javascript es6, react, react hooks, restful api"
+Tono Halim,tono.halim211@example.com,"javascript, javascript es6, react, react hooks, restful api"
+Kiki Halim,kiki.halim212@example.com,"javascript, javascript es6, react, react hooks, restful api"
+Irfan Saputra,irfan.saputra213@example.com,"javascript, javascript es6, react, react hooks, restful api"
+Putu Siregar,putu.siregar214@example.com,
+Bima Santoso,bima.santoso215@example.com,
+Nando Wibowo,nando.wibowo216@example.com,
+Irfan Wijaya,irfan.wijaya217@example.com,
+Ari Putri,ari.putri218@example.com,
+Eko Utama,eko.utama219@example.com,
+Irfan Pratama,irfan.pratama220@example.com,
+Oka Saputra,oka.saputra221@example.com,
+Nando Saputra,nando.saputra222@example.com,
+Ari Santoso,ari.santoso223@example.com,
+Citra Prasetyo,citra.prasetyo224@example.com,
+Eko Saputra,eko.saputra225@example.com,
+Bima Wibowo,bima.wibowo226@example.com,
+Lestari Gunawan,lestari.gunawan227@example.com,
+Rafi Pratama,rafi.pratama228@example.com,
+Nando Pratama,nando.pratama229@example.com,
+Bima Siregar,bima.siregar230@example.com,
+Lestari Prasetyo,lestari.prasetyo231@example.com,
+Bima Prasetyo,bima.prasetyo232@example.com,
+Lestari Halim,lestari.halim233@example.com,
+Hana Utama,hana.utama234@example.com,
+Dina Putri,dina.putri235@example.com,"matplotlib, numpy, pandas, python, scipy, seaborn, streamlit"
+Rafi Prasetyo,rafi.prasetyo236@example.com,"matplotlib, numpy, pandas, python, scipy, seaborn, streamlit"
+Nando Gunawan,nando.gunawan237@example.com,"matplotlib, numpy, pandas, python, scipy, seaborn, streamlit"
+Eko Prasetyo,eko.prasetyo238@example.com,"matplotlib, numpy, pandas, python, scipy, seaborn, streamlit"
+Hana Wibowo,hana.wibowo239@example.com,
+Fira Agustina,fira.agustina240@example.com,
+Fira Prasetyo,fira.prasetyo241@example.com,
+Nando Wijaya,nando.wijaya242@example.com,
+Fira Hartono,fira.hartono243@example.com,
+Kiki Agustina,kiki.agustina244@example.com,
+Nando Agustina,nando.agustina245@example.com,
+Hana Siregar,hana.siregar246@example.com,
+Fira Agustina,fira.agustina247@example.com,
+Dina Kusuma,dina.kusuma248@example.com,
+Bima Wibowo,bima.wibowo249@example.com,
+Putu Halim,putu.halim250@example.com,
+Gilang Wibowo,gilang.wibowo251@example.com,
+Oka Putri,oka.putri252@example.com,
+Juno Wibowo,juno.wibowo253@example.com,"nosql, python, r, sql"
+Hana Halim,hana.halim254@example.com,"nosql, python, r, sql"
+Ari Utama,ari.utama255@example.com,"nosql, python, r, sql"
+Gilang Kusuma,gilang.kusuma256@example.com,
+Kiki Siregar,kiki.siregar257@example.com,"keras, matplotlib, scikit‑learn"
+Citra Agustina,citra.agustina258@example.com,"keras, matplotlib, scikit‑learn"
+Irfan Putri,irfan.putri259@example.com,"keras, matplotlib, scikit‑learn"
+Qori Kusuma,qori.kusuma260@example.com,"keras, matplotlib, scikit‑learn"
+Rafi Putri,rafi.putri261@example.com,"keras, matplotlib, scikit‑learn"
+Ari Santoso,ari.santoso262@example.com,"keras, matplotlib, scikit‑learn"
+Irfan Pratama,irfan.pratama263@example.com,
+Sari Siregar,sari.siregar264@example.com,
+Bima Santoso,bima.santoso265@example.com,
+Tono Kusuma,tono.kusuma266@example.com,
+Lestari Hartono,lestari.hartono267@example.com,
+Kiki Kusuma,kiki.kusuma268@example.com,
+Tono Saputra,tono.saputra269@example.com,
+Dina Kusuma,dina.kusuma270@example.com,
+Sari Halim,sari.halim271@example.com,
